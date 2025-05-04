@@ -32,7 +32,7 @@ This exercise reinforced the importance of data encoding and pipeline automation
 
 ---
 
-## 🗂Files in Repository
+## Files in Repository
 
 - `Medical cost personal dataset`: Main notebook with code, training, and evaluation
 - `insurance.csv`: Dataset used
